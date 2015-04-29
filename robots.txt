@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://akiraishikawa.github.io/sitemap.xml 
